@@ -7,12 +7,13 @@
 - [backup2nrm](https://github.com/Naturhistoriska/backup2nrm): Backup script for transferring UPPMAX files to NRM.
 - [BIOinfo-course](https://github.com/Naturhistoriska/BIOinfo-course): Literature course in Bioinformatics for Biologists at NRM
 - [birdscanner](https://github.com/Naturhistoriska/birdscanner): Birdscanner - Extract homologous gene regions from scaffolds using nhmmer
-- [BjornAC2019](https://github.com/Naturhistoriska/BjornAC2019): (No description)
-- [BjornBD2021](https://github.com/Naturhistoriska/BjornBD2021): (No description)
-- [BjornYZ2020](https://github.com/Naturhistoriska/BjornYZ2020): (No description)
+- [BjornAC2019](https://github.com/Naturhistoriska/BjornAC2019): Spillningsinventering björn, Västerbottens län 2019
+- [BjornBD2021](https://github.com/Naturhistoriska/BjornBD2021): Spillningsinventering björn, Norrbottens län 2021
+- [BjornYZ2020](https://github.com/Naturhistoriska/BjornYZ2020): Spillningsinventering björn, Jämtlands och Västernorrlands län 2020
 - [cardinality.py](https://github.com/Naturhistoriska/cardinality.py): Examine the cardinality of a relation between two datasets
 - [CSB](https://github.com/Naturhistoriska/CSB): Material for Computing Skills for Biologists
 - [dnakey](https://github.com/Naturhistoriska/dnakey): DNA-key web site (decommissioned)
+- [eDNA](https://github.com/Naturhistoriska/eDNA): eDNA analysis pipeline used by CGI
 - [extract_mysql_tables.py](https://github.com/Naturhistoriska/extract_mysql_tables.py): A simple command-line tool for exporting tables from a MySQL database to TSV-files
 - [Georg](https://github.com/Naturhistoriska/Georg): Georeferencing tool for natural history collections
 - [georg-data](https://github.com/Naturhistoriska/georg-data): Processing data for use in the georeferencing tool Georg
