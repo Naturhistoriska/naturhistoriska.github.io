@@ -2,7 +2,7 @@
 # vim:fenc=utf-8
 # Copyright © 2025 nylander <johan.nylander@nrm.se>
 # Distributed under terms of the MIT license.
-# Last modified: tor aug 28, 2025  04:38
+# Last modified: tor sep 25, 2025  02:48
 
 """
 Search https://github.com/Naturhistoriska for public repositories.
@@ -22,7 +22,11 @@ response_list = response.json()
 #[print(f"{k} => {fk[k]}", file=sys.stderr) for k in fk.keys()]
 
 # Markdown output
+
+print("# naturhistoriska.github.io\n", file=sys.stdout)
+print("[Github pages](https://naturhistoriska.github.io) for [The Swedish Museum of Natural History](https://www.nrm.se).\n", file=sys.stdout)
 print("## Public repositories\n", file=sys.stdout)
+
 for x in sorted(response_list, key=lambda x: x['name'].lower()):
     if x['description'] is None:
         DESCR = '(No description)'
