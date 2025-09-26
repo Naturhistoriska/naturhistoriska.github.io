@@ -32,4 +32,4 @@
 - [samlingar](https://github.com/Naturhistoriska/samlingar): (No description)
 - [specify7](https://github.com/Naturhistoriska/specify7): An open-source platform for managing biological and geological collections.
 - [swedishbirdrecoveries](https://github.com/Naturhistoriska/swedishbirdrecoveries): Package in R for Swedish Bird Recovery data and visuals
-- [Toximeter](https://github.com/Naturhistoriska/Toximeter): (No description)
+- [Toximeter](https://github.com/Naturhistoriska/Toximeter): Interactive visualisation of historical levels of PCBs and DDT in Swedish otters, white-tailed eagles, and grey seals.
